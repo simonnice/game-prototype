@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "hell-hound-run_01.png",
+	"frame": {"x":1,"y":1,"w":47,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":2,"w":47,"h":30},
+	"sourceSize": {"w":67,"h":32}
+},
+{
+	"filename": "hell-hound-run_02.png",
+	"frame": {"x":50,"y":1,"w":46,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":9,"w":46,"h":23},
+	"sourceSize": {"w":67,"h":32}
+},
+{
+	"filename": "hell-hound-run_03.png",
+	"frame": {"x":98,"y":1,"w":46,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":5,"w":46,"h":27},
+	"sourceSize": {"w":67,"h":32}
+},
+{
+	"filename": "hell-hound-run_04.png",
+	"frame": {"x":146,"y":1,"w":45,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":6,"w":45,"h":26},
+	"sourceSize": {"w":67,"h":32}
+},
+{
+	"filename": "hell-hound-run_05.png",
+	"frame": {"x":193,"y":1,"w":47,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":5,"w":47,"h":27},
+	"sourceSize": {"w":67,"h":32}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "HellHound-New-PSD.png",
+	"format": "RGBA8888",
+	"size": {"w":241,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1c78b56d0649e2ac9db64e73b56ed47d:f45514cbcf84f8f2b7dda476eda84fe9:1891d01e3b93444098c1d730511754fe$"
+}
+}
